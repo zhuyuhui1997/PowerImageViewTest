@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="7"
+    timestamp="12192583007508"
+    verifier="FIELD_ADDED" >
+
+    <task
+        name="javac"
+        duration="58" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="18" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/home/zyh/AndroidStudioProjects/PowerImageViewTest/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+
+    <build timestamp="10195219829898" >
+        <artifact
+            location="/home/zyh/AndroidStudioProjects/PowerImageViewTest/build/outputs/apk/PowerImageViewTest-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="11573138209260"
+        verifier="METHOD_DELETED" >
+        <artifact
+            location="/home/zyh/AndroidStudioProjects/PowerImageViewTest/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="12192583007508"
+        verifier="FIELD_ADDED" >
+        <artifact
+            location="/home/zyh/AndroidStudioProjects/PowerImageViewTest/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
